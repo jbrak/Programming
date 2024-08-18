@@ -1,3 +1,3 @@
 # Python Programming
 
-Introductory exercises to python programming.l.
+Introductory exercises to python programming.
